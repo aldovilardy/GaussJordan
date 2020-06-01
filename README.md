@@ -1,2 +1,2 @@
 # GaussJordan
-A old collegue program to resolve ecuations using the Gauss Jordan method.
+An old collegue program to resolve ecuations using the Gauss Jordan method.
